@@ -11,7 +11,9 @@ Naive Bayes is a classification technique based on Bayes’ Theorem with an assu
 ![alt text](https://cdn-images-1.medium.com/max/1600/1*7lg_uLm8_1fYGjxPbTrQFQ.png)
  
  Here , P(A)= probability of class.
+ 
  P(B)=Probability of feature
- P(B|A)= Probability of the feture given that it belonngs to the particular class.
- Laplace correction is also considered and the log probabilities are added.
+ 
+ P(B|A)= Probability of the feature given that it belongs to the particular class.
+ Laplace correction is also considered and the log probabilities were added.
  Class with maximum probability is predicted.
